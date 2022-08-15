@@ -54,5 +54,5 @@ The Image below shows the function for listing the cities from the search functi
 Below is an image of the site as the User would see it with locations searched.
 ![site intro w  data](https://user-images.githubusercontent.com/107973681/184715462-b0c5e0aa-0a7c-4602-aad9-1174c84768ca.png)
 
-Site Link: 
+Site Link: https://salmandanesh93.github.io/Weather-Dashboard/
 GitHub Link: https://github.com/SalmanDanesh93/Weather-Dashboard
